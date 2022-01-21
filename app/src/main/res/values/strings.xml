@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProgrammationFonctionnelle</string>
+    <string name="text_button_save">Sauvegarder</string>
+    <string name="text_button_read">Lire</string>
+</resources>
